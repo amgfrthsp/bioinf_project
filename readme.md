@@ -16,6 +16,8 @@
 The hMSH6 PWWP domain interacts with H3K36me3 and is essential for hMutSα binding to chromatin
 `
 
+Он выполняет функцию Histone modification read
+
 ### Экспрессия
 
 ![pic](data/expression.png)
